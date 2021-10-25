@@ -18,24 +18,31 @@ header img{
 main{
     margin:8px;
 }
-#Titolo-crediti{
+#titolo-crediti{
     margin-bottom: 20px;
 }
-#Titolo-crediti h1{
+#titolo-crediti h1{
     font-size: 50px;
 }
-#Titolo-crediti h5{
+#titolo-crediti h5{
     color: rgb(184, 184, 184);
 }
-#Titolo-crediti h5 span{
+#titolo-crediti h5 span{
     color: rgb(0, 191, 255);
 }
-#Titolo-crediti h6{
+#titolo-crediti h6{
     color: rgb(184, 184, 184);
 }
-#Immagini{
+#immagini{
     margin-bottom: 20px;
 }
-#Immagini span{
+#immagini span{
     display: block;
 }
+#articolo{
+    margin-bottom: 20px;
+}
+#articolo ul{
+    padding: 16px;
+}
+
