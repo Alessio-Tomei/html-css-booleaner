@@ -1,0 +1,20 @@
+body{
+    margin: 0px;
+}
+header{
+    background-color: dodgerblue;
+    background-image: url("img/pattern.png");
+    background-size: 390px;
+    background-repeat: repeat-x; 
+    height: 100px; 
+}
+header img{
+    height: auto;
+    width: 200px;
+    position: relative;
+    top: 40px;
+    left: 8px;
+}
+main{
+    margin:8px;
+}
